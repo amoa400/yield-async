@@ -1,0 +1,18 @@
+{
+  "name": "yield-async",
+  "description": "A simple tool to write program synchronously but run it asynchronously via yield",
+  "version": "0.0.1",
+  "author": "amoa400 <amoa400@163.com>",
+  "keywords": [
+    "yield",
+    "async",
+    "callback",
+    "es6"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amoa400/yield-async.git"
+  },
+  "main": "lib/async.js",
+  "license": "MIT"
+}
