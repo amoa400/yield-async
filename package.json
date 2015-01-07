@@ -1,7 +1,7 @@
 {
   "name": "yield-async",
   "description": "A simple tool to write program synchronously but run it asynchronously via yield",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "amoa400 <amoa400@163.com>",
   "keywords": [
     "yield",

@@ -1,4 +1,4 @@
-[![yield-async Logo](http://cdn.amoa400.com/github/yield-async.png)](https://github.com/amoa400/yield-async)    
+[![yield-async Logo](https://raw.githubusercontent.com/amoa400/mycdn/master/images/logo/yield-async.png)](https://github.com/amoa400/yield-async)  
 A simple tool to write program synchronously but run it asynchronously using yield.  
 
 [![NPM Version](https://img.shields.io/npm/v/yield-async.svg?style=flat-square)](https://www.npmjs.org/package/yield-aysnc)&nbsp;&nbsp;[![Node.js Version](https://img.shields.io/badge/node.js-%3E%3D_0.11.13-brightgreen.svg?style=flat-square)](http://nodejs.org/download/)
